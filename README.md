@@ -1,3 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/b1ack-fire/b1ack-fire/main/hi-bio.svg" alt="Hi there animation" />
-</p>
+## 👋 Hi there, I’m b1ack-fire
+
+🧠 I tinker with code, ideas, and dark-themed designs.  
+⚡ Currently building my digital lair...
+
+🎬 [Click here to see my animated bio!](https://b1ack-fire.github.io)
