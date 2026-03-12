@@ -119,5 +119,5 @@
 ---
 
 <p align="center">
-  <b>Thank you for taking the time to read my profile 😊</b>
+  <b>Thank you for taking the time to read my profile ♡</b>
 </p>
