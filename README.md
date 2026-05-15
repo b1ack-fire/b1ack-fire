@@ -92,7 +92,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 </p>
----
+
 
 <h2 align="center">🏅 TryHackMe</h2>
 
