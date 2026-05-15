@@ -92,20 +92,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=b1ack-fire&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=b1ack-fire&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1ack-fire&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
 ---
 
 <h2 align="center">🏅 TryHackMe</h2>
